@@ -1,2 +1,2 @@
-# Tests
-This is where I leave random codes and test things!
+# Studies
+A repository I'm gonna be using to study and test random stuff :)
