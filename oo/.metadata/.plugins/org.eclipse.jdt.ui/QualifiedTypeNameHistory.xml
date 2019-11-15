@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="hbgamegfx.SpriteSheet"/>
+    <fullyQualifiedTypeName name="java.awt.image.BufferedImage"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics"/>
+    <fullyQualifiedTypeName name="hbgamegfx.Assets"/>
+    <fullyQualifiedTypeName name="hbgamestates.State"/>
+    <fullyQualifiedTypeName name="hbgamestates.GameState"/>
+    <fullyQualifiedTypeName name="hbgamestates.MenuState"/>
+</qualifiedTypeNameHistroy>

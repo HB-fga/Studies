@@ -1,0 +1,5 @@
+package hbgamestates;
+
+public class GameState {
+
+}

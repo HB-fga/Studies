@@ -25,7 +25,7 @@ um nao existe sem o outro(qual a diferenca?)
 
 # diagrama de caso de uso
 
-explicitar quem sao os atores do sistema, exemplo:g  
+explicitar quem sao os atores do sistema, exemplo:  
 - usuario -> errado!
 - estudante -> certo!
 

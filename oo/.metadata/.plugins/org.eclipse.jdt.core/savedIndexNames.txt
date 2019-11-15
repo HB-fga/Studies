@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/hugo/hugo/Studies/oo/.metadata/.plugins/org.eclipse.jdt.core
+1893810633.index
+646308851.index
+849057476.index

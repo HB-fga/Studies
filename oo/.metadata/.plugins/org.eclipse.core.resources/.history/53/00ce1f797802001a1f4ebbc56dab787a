@@ -1,0 +1,21 @@
+package hbgamegfx;
+
+import java.awt.image.BufferedImage;
+
+// /home/hugo/hugo/Studies/oo/ep2/res/textures
+
+public class Assets {
+	
+	private static final int width = 3, height = 3;
+	
+	public static BufferedImage boat1, boat2, sea;
+	
+	public static void init() {
+		SpriteSheet sheet = new SpriteSheet(ImageLoader.loadImage("/textures/sprite_sheet.png"));
+	
+		boat1 = sheet.crop(0, 0, width, height);
+		boat2 = sheet.crop(width, 0, width, height);;
+		sea = sheet.crop(2*width, 0, width, height);;
+	}
+
+}
