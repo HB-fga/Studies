@@ -1,7 +1,7 @@
 #include <SDL2/SDL.h>
 #include <iostream>
 
-//g++ sdltest.cpp `pkg-config --libs --cflags sdl2` && ./a.out
+//g++ -o a file.cpp `pkg-config --libs --cflags sdl2`
 
 using namespace std;
 
