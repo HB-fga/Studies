@@ -1,23 +1,22 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
+	int a, x, y, z;
 	
-	int n, x, y, z;
+	printf("Choose a number and a number to raise to the power of it respectively:\nExample: 2 3\n");
 	
-	scanf("%d", &n);
+	scanf("%d %d", &x, &y);
 	
-	while (n > 0)
+	z = y-1;
+	a = x;
+	
+	while (z--)
 	{
-		scanf("%d %d", &x, &y);
-		z = x;
-		while (y > 1)
-		{
-			x *= z;
-			y--;
-		}
-		printf("%d\n", x);
-		n--;
+		x *= y;
 	}
+	
+	printf("%d raised to the power of %d equals %d\n", a, y, x);
 	
 	return 0;
 }
