@@ -97,7 +97,6 @@ def draw():
     for obj in objects:
         obj.draw()   
 
-    pyxel.line(player1.x, player1.y - player1.h/2, player1.x, player1.y + player1.h/2, pyxel.COLOR_LIME)
 
 
 
